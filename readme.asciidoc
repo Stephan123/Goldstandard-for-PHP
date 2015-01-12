@@ -1,3 +1,10 @@
+Nur ein Test !!!!
+=================
+
+Das zu erreichende Ziel ist die Übersetzung der Fehlermeldungen und der Aufbau einer eigenen angepassten
+ruleset.xml .
+
+
 Koch's Goldstandard for PHP - A Coding Standard
 -----------------------------------------------
 
